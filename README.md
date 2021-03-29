@@ -1,2 +1,2 @@
 # Who.js
-JavaScript library to speed up and facilitate DOM control.
+Who.js is a javaScript library to speed up and facilitate DOM control.
